@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nathanrodriguespereira
-- 👀 I’m interested in  arrumar um estágio na area de  programção
+- 👀 I am interested in getting an internship in the programming area
 - 🌱 I’m currently learning  java-script,HTML  e CSS
-- 💞️ 24 anos
+- 💞️ 24 years
 - 📫 How to reach me linkedin.com/in/nathan-rodrigues-p-288069198
 
 <!---
